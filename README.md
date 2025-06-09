@@ -3,11 +3,11 @@
 This repository contains a complete pipeline for predicting heart disease using machine learning models, with a focus on model explainability and feature selection. The project includes data preprocessing, variable analysis, model training, cross-validation, feature reduction (via RFE), and explainability analysis using SHAP values.
 
 ##  Repository Structure
-├── Cross Validation/ # Scripts and results for 5-fold cross-validation on all models
-├── Prediction Models/ # Implementation of six ML models: LR, KNN, SVM, RF, XGBoost, MLP
-├── RFE+SHAP/ # Recursive Feature Elimination and SHAP-based feature importance analysis
-├── Variable Analysis/ # Univariate, bivariate, and multivariate exploration of dataset variables
-└── README.md # Project overview and usage instructions
+Cross Validation/ # Scripts and results for 5-fold cross-validation on all models
+Prediction Models/ # Implementation of six ML models: LR, KNN, SVM, RF, XGBoost, MLP
+RFE+SHAP/ # Recursive Feature Elimination and SHAP-based feature importance analysis
+Variable Analysis/ # Univariate, bivariate, and multivariate exploration of dataset variables
+README.md # Project overview and usage instructions
 
 
 ##  Project Objective
